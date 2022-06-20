@@ -6,7 +6,7 @@ A grey level histogram indicates how many pixels of an image share the same grey
 
 Gray-level histogram presents the frequency of l . We let the probability of l be P(l), and from P(l) , we obtain the following seven features.  
 
-https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true
+![Gray_level_hist](Gray_level_hist.jpg)
 
 - μ and σ are the average and the variance of the pixel value in the target image, respectively.
 - If the histogram is biased toward higher, contrast shows higher. 
