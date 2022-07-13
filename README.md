@@ -9,7 +9,7 @@ Brittle Fracture is a condition that occurs when a material is subjected to temp
 
 Ductile fracture is the material failure that exhibits substantial plastic deformation prior to fracture. The ductile fracture process is slow and gives enough warnings before final separation. Normally, a large amount of the plastic flow is concentrated near the fracture faces.
 
-![image](https://user-images.githubusercontent.com/84590255/178829456-607b0385-5697-4c12-a726-35cc2cc29527.png) ![image](https://user-images.githubusercontent.com/84590255/178830893-bd76f63b-4a85-4cf4-ada4-0be94e498a0a.png)
+![image](https://user-images.githubusercontent.com/84590255/178829456-607b0385-5697-4c12-a726-35cc2cc29527.png)                    ![image](https://user-images.githubusercontent.com/84590255/178830893-bd76f63b-4a85-4cf4-ada4-0be94e498a0a.png)
 
 Although the fracture type can be determined based on the mechanical and microstructural properties of a metal and state of stress and strain, a visual inspection of fractographic images is often conducted to identify the fracture type of metal. Although simple, visual inspection is slow, prone to confirmation bias and cannot be used for quantitative analysis of fracture surfaces. For instance, the evaluation of dominant fracture type and description of the visual characteristics of fracture surfaces is not possible through visual inspection. 
 
