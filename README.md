@@ -1,5 +1,6 @@
 # ML-Based-Fractography
-# Problem Statement : To classify metal fracture into brittle or ductile through image classification and machine learning on SEM images.
+# Problem Statement :
+To classify metal fracture into brittle or ductile through image classification and machine learning on SEM images.
 
 # Foreground : 
 Fracture in metals is one of the most important reasons behind the failure of engineering components and structures. Fracture in metals has lead to catastrophic failures in steel buildings and bridges , oil, and gas pipelines , automobiles and aerospace structures . Ductile fracture and Brittle fracture are the most common types of fracture in metals under monotonic loading conditions . A decision about the choice of a suitable damage model to simulate the failure depends on the type of fracture as the basic microscopic damage mechanisms leading to the fracture varies from one fracture type to another. Both ductile and brittle fracture zones are observed in structural steels, dual- and multiphase steels, aluminum, and titanium. The choice of damage model in the case where multiple fracture mechanisms are involved depends on fracture initiation mechanism, the dominant fracture mechanism and/or the conditions under which the fracture transitions from one type to another type.
